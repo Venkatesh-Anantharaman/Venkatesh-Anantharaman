@@ -1,6 +1,6 @@
 ## 👦 About Me:
 
-## 👋 Hi there
+## 👋 Welcome
 
 I'm **Venkatesh Anantharaman**, a passionate data analyst with a dynamic background in engineering and a knack for uncovering insights that drive impactful decisions. I thrive on solving complex problems with data-driven strategies.
 
