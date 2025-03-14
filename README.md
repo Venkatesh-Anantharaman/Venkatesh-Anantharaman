@@ -26,5 +26,5 @@ I'm **Venkatesh Anantharaman**, a passionate data analyst with a dynamic backgro
 If you're looking for a data analyst with a knack for translating numbers into value, let’s connect! Reach me on [LinkedIn](https://www.linkedin.com/in/venkatesh-anantharaman/) or via [Email](mailto:venky.anantha@gmail.com).
 
 Regards,
-\n
+-
 Venkatesh Anantharaman
