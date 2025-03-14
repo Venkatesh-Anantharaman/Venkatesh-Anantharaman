@@ -21,4 +21,9 @@ I'm **Venkatesh Anantharaman**, a passionate data analyst with a dynamic backgro
 - **🐍 Python**: Familiar with data manipulation and visualization using Numpy, Pandas.
 - **🛠️ Other Tools**: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.
 
+
+
 If you're looking for a data analyst with a knack for translating numbers into value, let’s connect! Reach me on [LinkedIn](https://www.linkedin.com/in/venkatesh-anantharaman/) or via [Email](mailto:venky.anantha@gmail.com).
+
+Regards,
+Venkatesh Anantharaman
