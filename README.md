@@ -4,9 +4,6 @@
 
 I'm **Venkatesh Anantharaman**, a passionate data analyst with a dynamic background in engineering and a knack for uncovering insights that drive impactful decisions. I thrive on solving complex problems with data-driven strategies.
 
-<!--
-**Venkatesh-Anantharaman/Venkatesh-Anantharaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 🌟 What I Bring to the Table
 
 - **📊 Data Visualization**: Crafting visuals that distill complex datasets into clear, actionable insights.
