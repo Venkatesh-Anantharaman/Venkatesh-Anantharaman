@@ -34,13 +34,15 @@ I'm **Venkatesh Anantharaman**, an Experienced data analyst with a dynamic backg
 ### 🏆 **Certification of Appreciation - The Brainiac** [ [Certificate](https://github.com/Venkatesh-Anantharaman/Assets/issues/1) ]
 
 
+##  📜 Publications:
+###  📋 **Economic Moats Explained: How Businesses Defend Their Market Dominance** [[Link](https://www.linkedin.com/pulse/economic-moats-explained-how-businesses-defend-market-anantharaman-mo8hc)]
+###  📋 **How Generative AI Is Changing the Way We Work and Play** [[Link](https://www.linkedin.com/posts/venkatesh-anantharaman_genai-ai-artificialintelligence-activity-7289647249385570304-Ox_b?utm_source=share&utm_medium=member_desktop)]
+###  📋 **LLM explained in simple Terms** [[Link](https://www.linkedin.com/pulse/llm-explained-simple-terms-venkatesh-anantharaman-hj84c?utm_source=share&utm_medium=member_android&utm_campaign=share_via)]
+### 📋 **Risk Management: The Cornerstone of Sustainable Business Practices**[[Link](https://www.linkedin.com/posts/venkatesh-anantharaman_risk-riskmanagement-businessanalysis-activity-7288533510636638209-YUx0?utm_source=share&utm_medium=member_desktop)]
+
 
 <br/>
-
 <br/>
-<br/>
-<br/>
-
 If you're looking for a data analyst with a knack for translating numbers into value, let’s connect! Reach me on [LinkedIn](https://www.linkedin.com/in/venkatesh-anantharaman/) or via [Email](mailto:venky.anantha@gmail.com).
 
 Regards,
